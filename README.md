@@ -21,10 +21,11 @@ To install this theme, simply use the `omarchy-theme-install` command:
 
 ```bash
 omarchy-theme-install https://github.com/bjarneo/omarchy-hollow-knight-theme
-
-## neovim color scheme
-https://github.com/bjarneo/hollow-knight.nvim
 ```
+```
+
+## Neovim color scheme
+https://github.com/bjarneo/hollow-knight.nvim
 
 ## X.com
 [iamdothash](https://x.com/iamdothash)
