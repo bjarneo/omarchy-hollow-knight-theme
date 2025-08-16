@@ -1,6 +1,6 @@
 # Hollow Knight Theme
 
-This is the Serenity theme for [Omarchy.org](https://omarchy.org), providing a visually appealing configuration set for your Linux desktop environment.
+This is the Hollow Knight theme for [Omarchy.org](https://omarchy.org), providing a visually appealing configuration set for your Linux desktop environment.
 
 > In halls of green and paths of grey,  
 > A silent knight will find their way.  
